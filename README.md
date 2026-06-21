@@ -155,6 +155,24 @@
 | 智慧API | [`https://nc.zhihuiapi.top/`](https://nc.zhihuiapi.top/) | - | 智慧 API 中转平台，提供多模型统一接口。 |
 | TimeBackward | [`https://api.timebackward.com/`](https://api.timebackward.com/) | - | 时光倒流 API 中转站，提供多模型接入服务。 |
 | Cikew | [`https://apic.cikew.site/`](https://apic.cikew.site/) | - | Cikew API 中转平台，提供多模型接入服务。 |
+| QQianduoduo | [`https://api2.aigcbest.top/register`](https://api2.aigcbest.top/register?aff=8Crz) | - | API中转站，输入价$0，套餐数1473，模型数24。 |
+| DMX | [`https://www.dmxapi.com/register`](https://www.dmxapi.com/register?aff=3sHK) | - | API中转站，输入价$0，套餐数327，模型数24。 |
+| BABEST AI | [`https://api.oaibest.com/register`](https://api.oaibest.com/register?aff=S83w) | - | API中转站，输入价$0.036，套餐数37，模型数5。 |
+| AiYa | [`https://api.aiyahmm.com/register`](https://api.aiyahmm.com/register?aff=z7fA) | - | API中转站，输入价$0.075，套餐数14，模型数114。 |
+| ICodeEasy | [`https://icodeeasy.cc/register`](https://icodeeasy.cc/register?code=INV_3B…) | - | API中转站。 |
+| Monking | [`https://www.monking.ai/register`](https://www.monking.ai/register?aff=Fisx) | - | API中转站，输入价$0.4375，套餐数7，模型数7。 |
+| SuperXiaoAi | - | - | 暂无更多描述。 |
+| 碳碳硅生命体 | - | Claude Code | 中转站，专注Claude Code，暂无更多描述。 |
+| 勤ClaudeHub (勤智AI) | - | Claude Code | 中转站，专注Claude Code，暂无更多描述。 |
+| minicod | - | Claude Code · Codex | 暂无更多描述。 |
+| 银银河Code | - | Codex PLUS · Codex PRO · Codex MAX | 中转站，专注Codex系列，暂无更多描述。 |
+| Flapcode | - | Claude Pro · Claude Max · Codex | 暂无更多描述。 |
+| 性性价比API | - | - | 暂无更多描述。 |
+| Atlas Cloud | - | - | 暂无更多描述。 |
+| UnoRouter | - | - | 暂无更多描述。 |
+| Relaydance | - | - | 暂无更多描述。 |
+| Aderouter.ai | - | - | 暂无更多描述。 |
+| Claude Relay | - | - | 暂无更多描述。 |
 | ocoolAPI | [`https://one.ooo.cool/register/`](https://one.ooo.cool/register/?aff_code=NEAd) | - | 文档详细适合小白，模型覆盖全但缺乏速度和稳定性测评，生产环境建议先压测。 |
 | gptgod | [`https://gptgod.cloud/`](https://gptgod.cloud/) | - | 官方 + 逆向混合路由，性价比高但逆向通道风险大，适合当主力之一别全压。 |
 | UoCode | [`https://www.uocode.com/register`](https://www.uocode.com/register?aff=rRqz) | Claude、Codex | 主打Claude和Codex系列模型 |
