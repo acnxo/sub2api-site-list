@@ -51,76 +51,76 @@
 
 | 名称 | 网址 | 支持的模型 | 备注 |
 | :--- | :--- | :--- | :--- |
-| V-API | [`https://api.gpt.ge/register`](https://api.gpt.ge/register) | - | API老牌大站，支持的模型很多 |
-| AICodeMirror | [`https://www.aicodemirror.com/register`](https://www.aicodemirror.com/register) | Gemini、Gemini | 国内第一批老牌 CC/CX/Gemini 编程工具中转站，官方纯血渠道（有点小贵），第三方逆向渠道同步开放 |
-| AIcodewith | [`https://aicodewith.com/zh/login`](https://aicodewith.com/zh/login) | Claude、GPT | 群友推荐比较稳定，能用claude，OpenAI，google的模型 |
-| OpenRouter | [`https://openrouter.ai/`](https://openrouter.ai/) | - | 老牌多模型网关，模型上新速度最快，稳定性也最好，价格同价多收充值手续费算是最贵233 |
-| AnyAIGC中转站 | [`https://anyaigc.com/register`](https://anyaigc.com/register) | - | 全网最稳定的官方企业级渠道 • 触达8个地区20万+客户 • 36个月稳定运营 • 承诺永久运营 |
-| deepkey | [`https://deepkey.top/register`](https://deepkey.top/register) | Claude、GPT、Gemini、Gemini | 超高性价比 超低定价倍率0.1 提供Claude gpt gemini 源头货源 小白友好 |
-| aitokensflux | [`https://aitokensflux.com/register`](https://aitokensflux.com/register) | - | aitokensflux 是面向 AI 编程的 API 接入服务，主打&quot;稳定好用&quot;。美元人民币 1:1 结算，支持微信、支付宝、信用卡、银行卡。 |
-| X-LLM | [`https://x-llm.net/sign-up`](https://x-llm.net/sign-up) | - | 主打便宜 + 企业级稳定，支持多模型统一接入，hvoy.ai 实测 100 分。长期低倍率、价格透明、线路稳定，适合个人与团队长期使用。 |
-| Butcodex | [`https://api.butcodex.com/register`](https://api.butcodex.com/register) | GPT | 专注Gpt5.4/5.5模型，只求稳价格0.1 - 0.8。随时可退款，提交表格一个一个退。成立时间：2026年2月 |
-| 云雾AI | [`https://yunwu.ai/register`](https://yunwu.ai/register) | Claude、GPT、Gemini、DeepSeek、Gemini | 老牌中转站，支持模型很多，覆盖Claude/GPT/Gemini/DeepSeek/国产模型。上新模型快，面向企业，稳定性好，可开票。 |
-| 省省Token | [`https://tokenshengsheng.com/register`](https://tokenshengsheng.com/register) | - | 全球大模型 API 的平价搬运工，汇聚全球 40+ 顶级大模型，我们坚持&quot;能省一块是一块&quot;的极致性价比，让顶尖 AI 能力触手可及。低配置、零门槛，按量计费，让你的开发成本直... |
-| foxcode | [`https://foxcode.rjj.cc/auth/register`](https://foxcode.rjj.cc/auth/register) | Claude | 主打 Claude 的低价通道，写代码好用但部分是逆向接口，token消耗量比较快。 |
-| 墨墨API | [`https://api.momoapi.icu`](https://api.momoapi.icu) | Claude、GPT、Gemini、Gemini | 专攻香蕉(GeminiNanobanana)的上游模型供货商，香蕉pro 4K价格仅0.1单次 香蕉2 4K 仅0.08单次 另外也有GPT/Claude/Gemini 文本模型 |
-| X-aio | [`https://dashboard.x-aio.com/zh/register`](https://dashboard.x-aio.com/zh/register) | - | 自己建的服务器节点，跑的小参数的开源模型比较多，最近也上了coding套餐。 |
-| Alsa | [`https://marketplace.aisa.one/register`](https://marketplace.aisa.one/register) | - | 不止AI的api，同时支持了好多API，YouTube、推特、财经数据类的，非常之全。 |
-| WenModel | [`http://ai.wenmodel.com/register`](http://ai.wenmodel.com/register) | Qwen | 阿里出身团队，阿里云头部代理商，Qwen官方直连5折起，happyhorse、wan系列等优质资源应有尽有。海外+国产模型覆盖6大厂商，按量付费无月租，模型真实不缩水 |
 | 乾行AI | [`https://fast.qianxing.pro`](https://fast.qianxing.pro) | Claude、GPT、Gemini、Gemini | 多模型API中转｜GPT/Claude/Gemini，极致稳定，高性价比 |
-| 小米API | [`https://vip.123everything.com/register`](https://vip.123everything.com/register) | - | 除了文本模型，有特色的是视频和图片模型也比较全！ |
-| 星链API | [`https://sub.chancexj.com/register`](https://sub.chancexj.com/register) | GPT | 主打GPT模型 满血不掺水 按量付费0.2倍率 充值1:1 有订阅套餐可选。100起可开个人工作室发票 |
-| aiberm | [`https://aiberm.com/register`](https://aiberm.com/register) | Claude | 运行几个月比较稳定，目前Claude 系列模型统统 1.9 折。 |
+| 小米API | [`https://vip.123everything.com/register`](https://vip.123everything.com/register?aff=wmE5) | - | 除了文本模型，有特色的是视频和图片模型也比较全！ |
+| 星链API | [`https://sub.chancexj.com/register`](https://sub.chancexj.com/register?aff=BAHKE8QTJV2U) | GPT | 主打GPT模型 满血不掺水 按量付费0.2倍率 充值1:1 有订阅套餐可选。100起可开个人工作室发票 |
+| aiberm | [`https://aiberm.com/register`](https://aiberm.com/register?aff=E9Gt) | Claude | 运行几个月比较稳定，目前Claude 系列模型统统 1.9 折。 |
 | BJX Router | [`https://api.bjxrouter.com/`](https://api.bjxrouter.com/) | Claude、GPT、Gemini、Gemini | New API 模板的 AI 模型聚合分发网关，支持 OpenAI/Claude/Gemini 多格式兼容接口。 |
 | GeekerOne | [`https://aigateway.geekerone.top/`](https://aigateway.geekerone.top/) | Claude、GPT、Gemini、Gemini | New API 模板的 AI 网关，统一 OpenAI/Claude/Gemini 多格式接口，主打个人与企业模型管理。 |
-| undyingapi | [`https://vip.undyingapi.com/register`](https://vip.undyingapi.com/register) | Gemini、Gemini | 专注 Gemini 的中转站，不过后期涨价比较多。 |
+| undyingapi | [`https://vip.undyingapi.com/register`](https://vip.undyingapi.com/register?aff=1yxL) | Gemini、Gemini | 专注 Gemini 的中转站，不过后期涨价比较多。 |
 | CXAPK | [`https://www.cxapk.top`](https://www.cxapk.top) | - | 联系客服充值，用不了可退款。在线充值退款需要手续费。 |
 | N89 | [`https://zyf.12040414.xyz/`](https://zyf.12040414.xyz/) | GPT | 基于拧巴力学驱动的gpt模型生图站 小白友好的低价高性价比大模型中转站 满血gpt驱动 |
-| E2 API | [`https://api.e2ez.com/register`](https://api.e2ez.com/register) | - | 1元=10刀，你就说偏不便宜吧 |
-| FK Claude | [`https://www.fkclaude.xyz/register`](https://www.fkclaude.xyz/register) | Claude | 简单粗暴的Claude中转站，来自私人Claude号池。干爆Claude！ |
-| NEXUS AI | [`https://nexus-xi.com`](https://nexus-xi.com) | GPT、DeepSeek | NEXUS AI 是一站式 AI API 中转服务平台，目前已接入 DeepSeek V4 Flash &amp; V4 Pro 模型，提供 OpenAI 兼容接口。原生支持多渠道管理、用量监控... |
+| E2 API | [`https://api.e2ez.com/register`](https://api.e2ez.com/register?aff=LRP7PDVQWJ9Y) | - | 1元=10刀，你就说偏不便宜吧 |
+| FK Claude | [`https://www.fkclaude.xyz/register`](https://www.fkclaude.xyz/register?aff=mu1X) | Claude | 简单粗暴的Claude中转站，来自私人Claude号池。干爆Claude！ |
+| NEXUS AI | [`https://nexus-xi.com`](https://nexus-xi.com) | GPT、DeepSeek | NEXUS AI 是一站式 AI API 中转服务平台，目前已接入 DeepSeek V4 Flash & V4 Pro 模型，提供 OpenAI 兼容接口。原生支持多渠道管理、用量监控、在线充... |
 | Chaoye | [`https://chaoye.xyz`](https://chaoye.xyz) | Claude、GPT | 想稳定使用 GPT、Claude、Kiro 及 MAX20x？ChaoyeAPI GPT / Claude / Kiro 中转站，一站接入，高速稳定，多通道保障！ |
-| 猫叔API | [`https://ms.ll9e.cn/register`](https://ms.ll9e.cn/register) | Claude、GPT、Gemini、Gemini | 支持模型很多，覆盖Claude/GPT/Gemini/。上新模型快，面向企业，稳定性好，可开票。 |
+| 猫叔API | [`https://ms.ll9e.cn/register`](https://ms.ll9e.cn/register?aff=hXhy) | Claude、GPT、Gemini、Gemini | 支持模型很多，覆盖Claude/GPT/Gemini/。上新模型快，面向企业，稳定性好，可开票。 |
 | code0.ai | [`https://code0.ai/`](https://code0.ai/) | Claude、GPT、Gemini、Codex、Gemini | 企业级大模型 API 聚合平台，模型一个 Key 全覆盖。直连 Claude、GPT、Gemini 等主流模型、支持人民币结算，兼容 OpenAI / Anthropic 。主推 Claude ... |
 | 302.AI | [`https://302.ai/`](https://302.ai/) | - | 按用量付费的企业级AI资源平台，提供最新、最全面的海内外模型API，无需魔法网络环境，一个API Key即可切换任意模型，官方原价，效果稳定。 |
-| 接口AI | [`https://jiekou.ai/referral`](https://jiekou.ai/referral) | - | 主打官方API，具备99.9%可用性，全天候运行支持。同时支持逆向渠道（明确标注） |
-| OhMyGpt | [`https://www.ohmygpt.com`](https://www.ohmygpt.com) | - | 社区认可的&quot;正经中转&quot;，接入体验好效果也超级稳，收费就是原价。 |
+| 接口AI | [`https://jiekou.ai/referral`](https://jiekou.ai/referral?invited_code=9EVI7M) | - | 主打官方API，具备99.9%可用性，全天候运行支持。同时支持逆向渠道（明确标注） |
+| OhMyGpt | [`https://www.ohmygpt.com`](https://www.ohmygpt.com) | - | 社区认可的"正经中转"，接入体验好效果也超级稳，收费就是原价。 |
 | APIman | [`https://apiman.ai`](https://apiman.ai) | - | 主打阿里系列模型，追求长期稳定和便宜，也是很有特色的站。不过目前还在搭建中，功能还不算全 |
 | QQQRouter | [`https://www.qqqrouter.ai`](https://www.qqqrouter.ai) | - | 小白和个人用户有性价比超高的套餐，几块钱就能用上顶级大模型；企业和开发者则有高性能、高稳定性的专业 API，一套代码接所有模型，随时切换，省心省力。 |
 | 071129 | [`https://ai.071129.xyz/`](https://ai.071129.xyz/) | - | 公益站，GitHub 登录即可使用 |
-| BiuBiu API | [`https://api.biubiu.best/register`](https://api.biubiu.best/register) | - | 小白友好的低价高性价比大模型中转站，渠道透明，支持主流国外大模型 |
+| BiuBiu API | [`https://api.biubiu.best/register`](https://api.biubiu.best/register?aff=Jw8x) | - | 小白友好的低价高性价比大模型中转站，渠道透明，支持主流国外大模型 |
 | TigerAPI | [`https://tiger.bookapi.cc/ref/V2yT`](https://tiger.bookapi.cc/ref/V2yT) | Claude、GPT | 主打Claude和OpenAI，目前充值1元1刀，号称绝不掺假 |
 | Poixe AI | [`https://poixe.com/i/dahei`](https://poixe.com/i/dahei) | - | 从2024年开始运营，较老的中转站。风格独特非NewAPI风格。支持多模型。价格偏高但质量很好，完全不注水，速度快。可开票。适合企业用户。 |
-| 米醋AI | [`https://www.openclaudecode.cn/register`](https://www.openclaudecode.cn/register) | Claude、GPT、Gemini、Grok、Gemini | 前身是OpenClaudeCode，之前风波里表现良好重新开张。站长是大V有信誉度。支持Claude/GPT/Gemini/Grok，无包月。 |
+| 米醋AI | [`https://www.openclaudecode.cn/register`](https://www.openclaudecode.cn/register?aff=R3Tl) | Claude、GPT、Gemini、Grok、Gemini | 前身是OpenClaudeCode，之前风波里表现良好重新开张。站长是大V有信誉度。支持Claude/GPT/Gemini/Grok，无包月。 |
 | Ekan8 | [`https://api.ekan8.com/`](https://api.ekan8.com/) | Claude、Gemini、Gemini | 只支持Claude Opus和Gemini。按次收费每次0.15元。是「酒馆」类站点里质量价格比最高的。 |
 | AI派 | [`https://api.aipaibox.com/`](https://api.aipaibox.com/) | Claude、GPT、Gemini、Gemini | 较新的网站，只支持Claude、GPT、Gemini。自营号池价格极低，质量不错。 |
 | 鸡哥API | [`https://api.yousebaby.com/`](https://api.yousebaby.com/) | Claude、Gemini、DeepSeek、MiniMax、Gemini | 在玩酒馆的用户中较常见。支持Claude/Gemini/DeepSeek/Minimax。按次计费，收费模式简单，质量不错不注水。 |
 | API2D | [`https://api2d.com/`](https://api2d.com/) | GPT | 运营时间较长的国内中转站，用户基数大，支持OpenAI全模型。价格中等，稳定性良好。有专属客服。 |
-| ChatAnywhere | [`https://chatanywhere.tech/`](https://chatanywhere.tech/) | GPT、DeepSeek | 价格竞争力强，GPT-4o mini 和 DeepSeek V3 价格较低。支持国内支付宝付款。 |
+| ChatAnywhere | [`https://chatanywhere.tech/`](https://chatanywhere.tech/#/) | GPT、DeepSeek | 价格竞争力强，GPT-4o mini 和 DeepSeek V3 价格较低。支持国内支付宝付款。 |
 | DawCode | [`https://dawclaudecode.com/`](https://dawclaudecode.com/) | Claude、GPT、Gemini、Gemini | 2026年新开站点，提供Claude/GPT/Gemini三种接口。提供多个线路，有签到送额度。 |
-| 发现AI | [`https://www.findcg.com/register`](https://www.findcg.com/register) | Claude、GPT、Gemini、Gemini | 2026年3月上线，支持GPT/Claude/Gemini。按次收费每次0.05元。注册送0.1元。 |
+| 发现AI | [`https://www.findcg.com/register`](https://www.findcg.com/register?ref=Rd917472777d7) | Claude、GPT、Gemini、Gemini | 2026年3月上线，支持GPT/Claude/Gemini。按次收费每次0.05元。注册送0.1元。 |
 | LinkAI | [`https://linkai.pro/`](https://linkai.pro/) | Claude、GPT、DeepSeek | 价格偏高的中转站，稳定性评分较低。支持GPT/Claude/DeepSeek。 |
-| RightCode | [`https://www.right.codes/register`](https://www.right.codes/register) | Claude、Codex | CODEX 中最低价的中转站，只专注于codex，不提供 Claude 模型等，适合预算有限的开发者。 |
+| RightCode | [`https://www.right.codes/register`](https://www.right.codes/register?aff=a7074bf2) | Claude、Codex | CODEX 中最低价的中转站，只专注于codex，不提供 Claude 模型等，适合预算有限的开发者。 |
+| V-API | [`https://api.gpt.ge/register`](https://api.gpt.ge/register?aff=GrDz) | - | API老牌大站，支持的模型很多 |
+| 墨墨API | [`https://api.momoapi.icu`](https://api.momoapi.icu) | Claude、GPT、Gemini、Gemini | 专攻香蕉(GeminiNanobanana)的上游模型供货商，香蕉pro 4K价格仅0.1单次 香蕉2 4K 仅0.08单次 另外也有GPT/Claude/Gemini 文本模型 |
 | LAST API | [`https://www.last-api.ai`](https://www.last-api.ai) | Claude、Codex | 提供企业级API调用，SLA长期稳定，主推Claude Code / Codex AI编程模型，可根据客户需求定制号池，满足大型项目开发需求。 |
 | AIspeed | [`https://aispeed.ai/`](https://aispeed.ai/) | Codex | 只卖Codex的中转站。 |
 | NiceCode | [`https://nicecode.vip/`](https://nicecode.vip/) | Claude、Codex | 做Codex和Claude的中转站。 |
+| AICodeMirror | [`https://www.aicodemirror.com/register`](https://www.aicodemirror.com/register?invitecode=V3JC7D) | Gemini、Gemini | 国内第一批老牌 CC/CX/Gemini 编程工具中转站，官方纯血渠道（有点小贵），第三方逆向渠道同步开放 |
 | 毫秒API | [`https://api.holdai.top/`](https://api.holdai.top/) | - | 官key直连，支持高并发。从V站找来的运行了快一年了。 |
+| AnyAIGC中转站 | [`https://anyaigc.com/register`](https://anyaigc.com/register?aff=cFeZ) | - | 全网最稳定的官方企业级渠道 • 触达8个地区20万+客户 • 36个月稳定运营 • 承诺永久运营 |
+| X-aio | [`https://dashboard.x-aio.com/zh/register`](https://dashboard.x-aio.com/zh/register?ref=071f5dba348e447f901e) | - | 自己建的服务器节点，跑的小参数的开源模型比较多，最近也上了coding套餐。 |
 | ZetaTechs API | [`https://api.zetatechs.com`](https://api.zetatechs.com) | Grok | Grok 接口，速度挺快，价格没有太明显的感知。 |
-| 墨信AI | [`https://www.moxin.studio/register`](https://www.moxin.studio/register) | Claude、Gemini、Gemini | 实体企业运行有淘宝旗舰店，可开发票支持网站在线充值，主做国外模型，Gemini Claude等模型。 |
-| gcccode | [`https://www.gcccode.com`](https://www.gcccode.com) | - | 卖的很贵，说是很稳。界面挺一般，不影响用。 |
+| 墨信AI | [`https://www.moxin.studio/register`](https://www.moxin.studio/register?aff=RYU0) | Claude、Gemini、Gemini | 实体企业运行有淘宝旗舰店，可开发票支持网站在线充值，主做国外模型，Gemini Claude等模型。 |
+| deepkey | [`https://deepkey.top/register`](https://deepkey.top/register?aff=w8yN) | Claude、GPT、Gemini、Gemini | 超高性价比 超低定价倍率0.1 提供Claude gpt gemini 源头货源 小白友好 |
+| Alsa | [`https://marketplace.aisa.one/register`](https://marketplace.aisa.one/register?aff=WtMG) | - | 不止AI的api，同时支持了好多API，YouTube、推特、财经数据类的，非常之全。 |
+| gcccode | [`https://www.gcccode.com`](https://www.gcccode.com?aff=xPAKO5py) | - | 卖的很贵，说是很稳。界面挺一般，不影响用。 |
+| AIcodewith | [`https://aicodewith.com/zh/login`](https://aicodewith.com/zh/login?tab=register&invitation=7DWTC53) | Claude、GPT | 群友推荐比较稳定，能用claude，OpenAI，google的模型 |
+| aitokensflux | [`https://aitokensflux.com/register`](https://aitokensflux.com/register?aff=INx2) | - | aitokensflux 是面向 AI 编程的 API 接入服务，主打"稳定好用"。美元人民币 1:1 结算，支持微信、支付宝、信用卡、银行卡。 |
+| OpenRouter | [`https://openrouter.ai/`](https://openrouter.ai/) | - | 老牌多模型网关，模型上新速度最快，稳定性也最好，价格同价多收充值手续费算是最贵233 |
 | aigocode | [`https://aigocode.com/invite/MK8T5QD2`](https://aigocode.com/invite/MK8T5QD2) | - | 目前速度和稳定性都可以，但也是真的贵。。。。 |
 | 1openapi | [`https://1openapi.com`](https://1openapi.com) | - | 价格很低，但模型会有点缩水。整个用Openwebui二开的，可以直接在网页端聊天。 |
-| NEWAPI | [`https://api.csmindai.com/register`](https://api.csmindai.com/register) | Gemini、Gemini | Gemini价格低，但目前不支持在线充值还得加微信，企业大客户可以签合同。 |
-| YesCode | [`https://co.yes.vg/register`](https://co.yes.vg/register) | Claude | 低调且稳定的 Claude Code 中转站，订阅制价格划算，可以当主力使用。 |
-| IkunCode | [`https://api.ikuncode.cc/register`](https://api.ikuncode.cc/register) | - | 编程专用 API 中转平台，提供稳定的模型接入。 |
+| WenModel | [`http://ai.wenmodel.com/register`](http://ai.wenmodel.com/register?aff=wRRA) | Qwen | 阿里出身团队，阿里云头部代理商，Qwen官方直连5折起，happyhorse、wan系列等优质资源应有尽有。海外+国产模型覆盖6大厂商，按量付费无月租，模型真实不缩水 |
+| NEWAPI | [`https://api.csmindai.com/register`](https://api.csmindai.com/register?aff=RrFU) | Gemini、Gemini | Gemini价格低，但目前不支持在线充值还得加微信，企业大客户可以签合同。 |
+| X-LLM | [`https://x-llm.net/sign-up`](https://x-llm.net/sign-up?aff=4KHa) | - | 主打便宜 + 企业级稳定，支持多模型统一接入，hvoy.ai 实测 100 分。长期低倍率、价格透明、线路稳定，适合个人与团队长期使用。 |
+| YesCode | [`https://co.yes.vg/register`](https://co.yes.vg/register?ref=dahei) | Claude | 低调且稳定的 Claude Code 中转站，订阅制价格划算，可以当主力使用。 |
+| IkunCode | [`https://api.ikuncode.cc/register`](https://api.ikuncode.cc/register?aff=YOxp) | - | 编程专用 API 中转平台，提供稳定的模型接入。 |
 | DGrid AI | [`https://dgrid.ai/`](https://dgrid.ai/) | - | DGrid AI是一个去中心化的AI智能网络，为开发者与用户提供低成本、可验证且无需信任的模型与智能体（Agent）调用服务。 |
-| UIUIAPI | [`https://sg.uiuiapi.com/register`](https://sg.uiuiapi.com/register) | - | 国内用户友好的聚合平台，支付方式方便。 |
-| MNAPI | [`https://www.mnapi.com/register`](https://www.mnapi.com/register) | - | 聚合多家中转站的&quot;二道中转&quot;，主打代挑高性价比渠道和质量监测，接入前先看清各分组的上游。 |
-| claudeapi.com | [`https://console.claudeapi.com/register`](https://console.claudeapi.com/register) | Claude | Claude API 专属中转，稳定直连 Anthropic 官方模型，支持 Claude 全系列。国内直连、人民币充值、按量计费，兼容官方原生格式，Claude Code / Cursor /... |
-| AIHUBMIX | [`https://aihubmix.com/`](https://aihubmix.com/) | Claude | 美国公司背景、有云服务商授权，模型全价格接近官网，也支持了Claude code。 |
-| Gemini站点 | [`https://www.amutes.com/register`](https://www.amutes.com/register) | Gemini、Gemini | 比官网便宜 60%，但目前不支持在线充值还得加微信，一家专做gemini的供应商 |
-| 老张API | [`https://api.laozhang.ai/register/`](https://api.laozhang.ai/register/) | Claude | 国内热门中转，折扣价有吸引力但实测主要稳定的是 Claude，其他模型支持有限，上线前逐个测试。 |
-| 兔子API | [`https://api.tu-zi.com/register`](https://api.tu-zi.com/register) | - | 推荐的人很多，推特很活跃，有自己的技术开发，选择也比较多样，在我心目中堪比官方。 |
+| Butcodex | [`https://api.butcodex.com/register`](https://api.butcodex.com/register?aff=Xeh2) | GPT | 专注Gpt5.4/5.5模型，只求稳价格0.1 - 0.8。随时可退款，提交表格一个一个退。成立时间：2026年2月 |
+| UIUIAPI | [`https://sg.uiuiapi.com/register`](https://sg.uiuiapi.com/register?aff=MvXQ) | - | 国内用户友好的聚合平台，支付方式方便。 |
+| 云雾AI | [`https://yunwu.ai/register`](https://yunwu.ai/register?aff=aUjb) | Claude、GPT、Gemini、DeepSeek、Gemini | 老牌中转站，支持模型很多，覆盖Claude/GPT/Gemini/DeepSeek/国产模型。上新模型快，面向企业，稳定性好，可开票。 |
+| MNAPI | [`https://www.mnapi.com/register`](https://www.mnapi.com/register?aff=Ww3B) | - | 聚合多家中转站的"二道中转"，主打代挑高性价比渠道和质量监测，接入前先看清各分组的上游。 |
+| claudeapi.com | [`https://console.claudeapi.com/register`](https://console.claudeapi.com/register?aff=hxGj) | Claude | Claude API 专属中转，稳定直连 Anthropic 官方模型，支持 Claude 全系列。国内直连、人民币充值、按量计费，兼容官方原生格式，Claude Code / Cursor /... |
+| AIHUBMIX | [`https://aihubmix.com/`](https://aihubmix.com/?aff=0uEM) | Claude | 美国公司背景、有云服务商授权，模型全价格接近官网，也支持了Claude code。 |
+| 省省Token | [`https://tokenshengsheng.com/register`](https://tokenshengsheng.com/register?aff=axSm) | - | 全球大模型 API 的平价搬运工，汇聚全球 40+ 顶级大模型，我们坚持"能省一块是一块"的极致性价比，让顶尖 AI 能力触手可及。低配置、零门槛，按量计费，让你的开发成本直降 50% 以上。 |
+| foxcode | [`https://foxcode.rjj.cc/auth/register`](https://foxcode.rjj.cc/auth/register?aff=5SI8X) | Claude | 主打 Claude 的低价通道，写代码好用但部分是逆向接口，token消耗量比较快。 |
+| Gemini站点 | [`https://www.amutes.com/register`](https://www.amutes.com/register?aff=7A87) | Gemini、Gemini | 比官网便宜 60%，但目前不支持在线充值还得加微信，一家专做gemini的供应商 |
+| 老张API | [`https://api.laozhang.ai/register/`](https://api.laozhang.ai/register/?aff_code=D9Px) | Claude | 国内热门中转，折扣价有吸引力但实测主要稳定的是 Claude，其他模型支持有限，上线前逐个测试。 |
+| 兔子API | [`https://api.tu-zi.com/register`](https://api.tu-zi.com/register?aff=tyWV) | - | 推荐的人很多，推特很活跃，有自己的技术开发，选择也比较多样，在我心目中堪比官方。 |
 | PackyCode | [`https://www.packyapi.com/`](https://www.packyapi.com/) | - | 最早一批做 Code 中转的，早期不错，但后来随意修改套餐内容，缺乏契约精神，建议慎选。 |
 | Augmunt | [`https://www.augmunt.com/`](https://www.augmunt.com/) | - | Code 中转服务，提供多模型 API 接入。 |
 | Kimi7273 | [`http://152.53.82.145:3000/`](http://152.53.82.145:3000/) | - | 专门用来生图的站点，图像生成额度充足，但文字对话额度比较少。 |
@@ -155,20 +155,20 @@
 | 智慧API | [`https://nc.zhihuiapi.top/`](https://nc.zhihuiapi.top/) | - | 智慧 API 中转平台，提供多模型统一接口。 |
 | TimeBackward | [`https://api.timebackward.com/`](https://api.timebackward.com/) | - | 时光倒流 API 中转站，提供多模型接入服务。 |
 | Cikew | [`https://apic.cikew.site/`](https://apic.cikew.site/) | - | Cikew API 中转平台，提供多模型接入服务。 |
-| ocoolAPI | [`https://one.ooo.cool/register/`](https://one.ooo.cool/register/) | - | 文档详细适合小白，模型覆盖全但缺乏速度和稳定性测评，生产环境建议先压测。 |
+| ocoolAPI | [`https://one.ooo.cool/register/`](https://one.ooo.cool/register/?aff_code=NEAd) | - | 文档详细适合小白，模型覆盖全但缺乏速度和稳定性测评，生产环境建议先压测。 |
 | gptgod | [`https://gptgod.cloud/`](https://gptgod.cloud/) | - | 官方 + 逆向混合路由，性价比高但逆向通道风险大，适合当主力之一别全压。 |
-| UoCode | [`https://www.uocode.com/register`](https://www.uocode.com/register) | Claude、Codex | 主打Claude和Codex系列模型 |
+| UoCode | [`https://www.uocode.com/register`](https://www.uocode.com/register?aff=rRqz) | Claude、Codex | 主打Claude和Codex系列模型 |
 | yunwu | [`https://yunwu.ai/`](https://yunwu.ai/) | - | 有实体公司，宣称高可用，实测表现尚可但V站有避雷贴，当备选线路可以别当唯一依赖。 |
 | zhtec | [`https://api1.zhtec.xyz/`](https://api1.zhtec.xyz/) | - | 有免费测试线常被拿来白嫖，但高阶模型成功率低，适合薅羊毛和实验，生产环境不推荐。 |
 | 35-aigcbest | [`https://35.aigcbest.top/`](https://35.aigcbest.top/) | Azure | 主打 Azure 中转，价格略贵但相对正经，适合有 AZ 需求的团队，建议小额试用后再加码。 |
-| xjai-new | [`https://new.xjai.cc/`](https://new.xjai.cc/) | - | 价格诱人但实测成功率 0%，典型的&quot;价目表好看、线路半停摆&quot;，别提前充大额。 |
+| xjai-new | [`https://new.xjai.cc/`](https://new.xjai.cc/) | - | 价格诱人但实测成功率 0%，典型的"价目表好看、线路半停摆"，别提前充大额。 |
 | bltcy | [`https://api.bltcy.ai/`](https://api.bltcy.ai/) | - | AZ + 官转双路线，成功率九成左右稳定性不错，适合扛部分主力流量配合其他站容灾。 |
 | xeduapi | [`https://xeduapi.com/`](https://xeduapi.com/) | - | 托管版 One-API，功能完善但价格偏贵且成功率只有两成，适合调试应急不适合当主力。 |
 | v3 | [`https://api.v3.cm/`](https://api.v3.cm/) | - | 模型超全的一站式中转，价格不算便宜但选择多上手简单，适合喜欢折腾多模型的开发者。 |
 | ephone | [`https://api.ephone.ai/`](https://api.ephone.ai/) | - | 多模型平台，测试样本少暂无翻车记录，输出速度不错但首字延迟长，适合非实时场景。 |
 | nekoapi | [`https://api.nekoapi.com/`](https://api.nekoapi.com/) | - | 宣称企业级但实测成功率 0%，站长解释是渠道没额度，价格还不便宜，不推荐。 |
-| sbgpt | [`https://go.sbgpt.site/`](https://go.sbgpt.site/) | GPT | 超低价中转，小模型稳定但 gpt-5 失败率高，适合&quot;便宜好用会挑模型&quot;的场景，严肃业务需多备份。 |
-| ggwk1 | [`https://www.ggwk1.online/`](https://www.ggwk1.online/) | - | 坦诚说明是拼渠道的中转，但实测全 0 成功率，像是&quot;挂着没人维护&quot;，不适合真接入。 |
+| sbgpt | [`https://go.sbgpt.site/`](https://go.sbgpt.site/) | GPT | 超低价中转，小模型稳定但 gpt-5 失败率高，适合"便宜好用会挑模型"的场景，严肃业务需多备份。 |
+| ggwk1 | [`https://www.ggwk1.online/`](https://www.ggwk1.online/) | - | 坦诚说明是拼渠道的中转，但实测全 0 成功率，像是"挂着没人维护"，不适合真接入。 |
 | GalaxyAPI | [`https://api.openai-ch.top/`](https://api.openai-ch.top/) | GPT | OpenAI 专注中转，主打正经服务，成功率 80% 多，小模型表现好，价格和稳定性中等偏上。 |
 | paintbot | [`https://oneapi.paintbot.top/`](https://oneapi.paintbot.top/) | - | 多模型通用中转但实测全失败成功率 0%，像是没人打理，不建议用于实际任务。 |
 | chatfire | [`https://api.chatfire.cn/`](https://api.chatfire.cn/) | Claude | 源头服务商定位，支持多模态，实测 100% 成功率评分靠前，价格合理在意 Claude 可用性可优先考虑。 |
@@ -198,7 +198,7 @@
 | MJdjourney | [`https://api.mjdjourney.cn/`](https://api.mjdjourney.cn/) | - | 偏绘图/MJ 相关中转服务。 |
 | 4Z API | [`https://4zapi.com/`](https://4zapi.com/) | - | 4Z API 中转站，V2EX 有作者自述。 |
 | 简易API | [`https://jeniya.top/`](https://jeniya.top/) | Claude、GPT、DeepSeek | 简易API中转站，聚合 OpenAI/Claude/DeepSeek 等，强调国内直连与新手额度。 |
-| CloseAI | [`https://closeai-asia.com/`](https://closeai-asia.com/) | - | 自称&quot;亚洲规模较大的企业级中转平台&quot;。 |
+| CloseAI | [`https://closeai-asia.com/`](https://closeai-asia.com/) | - | 自称"亚洲规模较大的企业级中转平台"。 |
 | 云鲸AI | [`https://api.atalk-ai.com/`](https://api.atalk-ai.com/) | - | 云鲸AI API 聚合平台，多模型统一接口。 |
 | DuckAGI | [`https://duckagi.com/`](https://duckagi.com/) | GPT | 多模态平台，支持 GPT-4o / Sora 等。 |
 | Airouter | [`https://airouter.mxyhi.com/`](https://airouter.mxyhi.com/) | - | 中转站路由层，对接多家中转站并统一出口。 |
@@ -208,22 +208,22 @@
 | moleapi | [`https://home.moleapi.com`](https://home.moleapi.com) | - | - |
 | 1 | [`http://185.150.191.52:38901`](http://185.150.191.52:38901) | - | - |
 | 1 | [`https://status.aicodemirror.com/`](https://status.aicodemirror.com/) | - | - |
-| 柏拉图AI | [`https://www.hvoy.ai/relaySite`](https://www.hvoy.ai/relaySite) | - | 比较老的API站，支持市面上几乎所有模型，含MJ/可灵/豆包等。多地区节点，可开票。 |
-| ANYONE.ai | [`https://www.hvoy.ai/relaySite`](https://www.hvoy.ai/relaySite) | Claude、GPT、Gemini、Qwen、GLM、Gemini | 新站，面向企业用户。GPT5.4极便宜，支持Claude/Gemini/GLM/Qwen等。 |
-| TimiCC | [`https://timicc.com/register`](https://timicc.com/register) | GPT | 2026年1月成立，为编程准备。GPT team号基本免费，注册送1元。 |
-| Terminal.Pub | [`https://terminal.pub/register`](https://terminal.pub/register) | Claude | 2026年2月新站，专注于编程API。Claude极便宜，有免费组。 |
-| XcodeBest | [`https://xcode.best/register`](https://xcode.best/register) | Claude | 2026年3月新站，专注编程API。Claude价格便宜。 |
-| ByteCat | [`https://www.bytecatcode.org/register`](https://www.bytecatcode.org/register) | Claude、GPT、Gemini、Gemini | 2026年1月新站，支持Claude/GPT/Gemini。Opus ¥0.75/3.75。 |
-| CCFly | [`https://ccfly.codes/`](https://ccfly.codes/) | Claude | 2026年新站，专注Claude系列。提供MAX拼车服务。 |
+| 柏拉图AI | [`https://www.hvoy.ai/relaySite`](https://www.hvoy.ai/relaySite?name=柏拉图AI&source=git) | - | 比较老的API站，支持市面上几乎所有模型，含MJ/可灵/豆包等。多地区节点，可开票。 |
+| ANYONE.ai | [`https://www.hvoy.ai/relaySite`](https://www.hvoy.ai/relaySite?name=ANYONE.ai&source=git) | Claude、GPT、Gemini、Qwen、GLM、Gemini | 新站，面向企业用户。GPT5.4极便宜，支持Claude/Gemini/GLM/Qwen等。 |
+| TimiCC | [`https://timicc.com/register`](https://timicc.com/register?ref=2CT3TAP7) | GPT | 2026年1月成立，为编程准备。GPT team号基本免费，注册送1元。 |
+| Terminal.Pub | [`https://terminal.pub/register`](https://terminal.pub/register?aff=rJW5) | Claude | 2026年2月新站，专注于编程API。Claude极便宜，有免费组。 |
+| XcodeBest | [`https://xcode.best/register`](https://xcode.best/register?aff=mLST) | Claude | 2026年3月新站，专注编程API。Claude价格便宜。 |
+| ByteCat | [`https://www.bytecatcode.org/register`](https://www.bytecatcode.org/register?aff=FHhY) | Claude、GPT、Gemini、Gemini | 2026年1月新站，支持Claude/GPT/Gemini。Opus ¥0.75/3.75。 |
+| CCFly | [`https://ccfly.codes/`](https://ccfly.codes/?inviteCode=DAN39VOO) | Claude | 2026年新站，专注Claude系列。提供MAX拼车服务。 |
 | DDShub | [`https://www.ddshub.cc/`](https://www.ddshub.cc/) | Claude | 2026年3月新站，专注Claude Max反代，比例2人民币:1美元。 |
-| BUZZ | [`https://buzzai.cc/register`](https://buzzai.cc/register) | GPT | 2026年初新站，GPT5.4极便宜¥0.13/0.75，价格标识清晰。 |
-| ZeroCode | [`https://zerocode.sbs/register`](https://zerocode.sbs/register) | Claude、GPT、Gemini、Gemini | 2026年初新站，支持Claude/Gemini/GPT，分级VIP。新用户送1元。 |
-| SunnyPumpkinAPI | [`https://hvoy.ai/relaySite`](https://hvoy.ai/relaySite) | Claude、GPT、Gemini、Grok、Gemini | 2024年开始做，支持GPT/Claude/Gemini/Grok/可灵。站长靠谱。 |
-| FastCode | [`https://api.timebackward.com/register`](https://api.timebackward.com/register) | - | 2026年3月新站，模型多，可开票对公转账。 |
+| BUZZ | [`https://buzzai.cc/register`](https://buzzai.cc/register?aff=B0Er) | GPT | 2026年初新站，GPT5.4极便宜¥0.13/0.75，价格标识清晰。 |
+| ZeroCode | [`https://zerocode.sbs/register`](https://zerocode.sbs/register?aff=Sc3E) | Claude、GPT、Gemini、Gemini | 2026年初新站，支持Claude/Gemini/GPT，分级VIP。新用户送1元。 |
+| SunnyPumpkinAPI | [`https://hvoy.ai/relaySite`](https://hvoy.ai/relaySite?name=SunnyPumpkinAPI&source=git) | Claude、GPT、Gemini、Grok、Gemini | 2024年开始做，支持GPT/Claude/Gemini/Grok/可灵。站长靠谱。 |
+| FastCode | [`https://api.timebackward.com/register`](https://api.timebackward.com/register?aff=uVJB) | - | 2026年3月新站，模型多，可开票对公转账。 |
 | codesome.ai | [`https://codesome.ai`](https://codesome.ai) | - | 较新站点，联系站长送10元试用。月卡289起。 |
-| 无限API | [`https://infai.cc/register`](https://infai.cc/register) | - | 模型超多，含MJ/可灵/小米等。适合企业，可开票。 |
-| DoroAI | [`https://doro.lol/register`](https://doro.lol/register) | - | 2026年2月新站，Sonnet逆向质量不错。送0.5元。 |
-| 肖恩AI | [`https://free.supxh.xin/register`](https://free.supxh.xin/register) | - | 半公益性质的站，轻度用户可以试试，有点坑的是模型并没有视觉能力 |
+| 无限API | [`https://infai.cc/register`](https://infai.cc/register?aff=8EmH) | - | 模型超多，含MJ/可灵/小米等。适合企业，可开票。 |
+| DoroAI | [`https://doro.lol/register`](https://doro.lol/register?aff=sAVO) | - | 2026年2月新站，Sonnet逆向质量不错。送0.5元。 |
+| 肖恩AI | [`https://free.supxh.xin/register`](https://free.supxh.xin/register?code=XWH937) | - | 半公益性质的站，轻度用户可以试试，有点坑的是模型并没有视觉能力 |
 | SkyHope AI | [`https://ai.flyshop.chat/`](https://ai.flyshop.chat/) | Codex | 超便宜codex，代理费率最低可达0.025 |
 | 123api.co | [`https://123api.co/`](https://123api.co/) | - | 暂无更多描述 |
 | 128api.cn | [`https://128api.cn/`](https://128api.cn/) | - | 暂无更多描述 |
@@ -428,7 +428,7 @@
 | api.hy88.my | [`https://api.hy88.my/`](https://api.hy88.my/) | - | 暂无更多描述 |
 | api.iamhc.cn | [`https://api.iamhc.cn/`](https://api.iamhc.cn/) | - | 暂无更多描述 |
 | api.iew.cc | [`https://api.iew.cc/`](https://api.iew.cc/) | - | 暂无更多描述 |
-| api.ipenai.cn&quot; | [`https://api.ipenai.cn/`](https://api.ipenai.cn/) | - | 暂无更多描述 |
+| api.ipenai.cn" | [`https://api.ipenai.cn/`](https://api.ipenai.cn/) | - | 暂无更多描述 |
 | api.izytoken.com | [`https://api.izytoken.com/`](https://api.izytoken.com/) | - | 暂无更多描述 |
 | api.jiu96.com | [`https://api.jiu96.com/`](https://api.jiu96.com/) | - | 暂无更多描述 |
 | api.juaihub.cn | [`https://api.juaihub.cn/`](https://api.juaihub.cn/) | - | 暂无更多描述 |
@@ -1056,12 +1056,12 @@
 | Le Chat | [`https://chat.mistral.ai/`](https://chat.mistral.ai/) | Mistral | Mistral AI 推出的对话式 AI，基于高效开源模型。 |
 | Xiaomi MiMo | [`https://platform.xiaomimomo.com/`](https://platform.xiaomimomo.com/) | - | 小米推出的推理大模型开放平台，提供 MiMo 系列模型的官方 API。 |
 | New API | [`https://github.com/QuantumNous/new-api/`](https://github.com/QuantumNous/new-api/) | - | 🔥 基于 One API 二次开发的新一代 AI 模型聚合管理系统，支持在线充值、多语言、现代化UI，GitHub 7.5K+ Star。 |
-| One API | [`https://github.com/songquanpeng/one-api/`](https://github.com/songquanpeng/one-api/) | - | LLM API 管理 &amp; 分发系统，支持多种主流模型统一 API 适配，GitHub 24.2K+ Star，被大量中转站用作底层。 |
+| One API | [`https://github.com/songquanpeng/one-api/`](https://github.com/songquanpeng/one-api/) | - | LLM API 管理 & 分发系统，支持多种主流模型统一 API 适配，GitHub 24.2K+ Star，被大量中转站用作底层。 |
 | v-api | [`https://github.com/popjane/v-api/`](https://github.com/popjane/v-api/) | - | 基于 One-API 二开的功能强大的中转平台，增强了后台管理功能。 |
 | One API Hub | [`https://github.com/fxaxg/one-api-hub/`](https://github.com/fxaxg/one-api-hub/) | - | 开源浏览器插件，聚合管理基于 One-API 和 New-API 的中转站账号余额、模型和密钥。 |
 | NextChat | [`https://github.com/ChatGPTNextWeb/NextChat/`](https://github.com/ChatGPTNextWeb/NextChat/) | Claude、GPT、Gemini、Gemini | 一键免费部署你的私人 ChatGPT 网页应用，支持 GPT-4/Gemini Pro/Claude 等，GitHub 55.6K+ Star。 |
 | LobeChat | [`https://github.com/lobehub/lobe-chat/`](https://github.com/lobehub/lobe-chat/) | GPT | 开源高性能聊天机器人框架，支持语音合成、多模态、插件系统，可一键免费部署私有 ChatGPT/LLM 应用。 |
-| openai-api | [`https://github.com/homjay666/openai-api/`](https://github.com/homjay666/openai-api/) | GPT | 自称&quot;openai 中转站&quot;，可自己部署，做简单转发 + Key 管理。 |
+| openai-api | [`https://github.com/homjay666/openai-api/`](https://github.com/homjay666/openai-api/) | GPT | 自称"openai 中转站"，可自己部署，做简单转发 + Key 管理。 |
 | chatgptProxyAPI | [`https://github.com/XiaoYangTongXue9802/chatgptProxyAPI/`](https://github.com/XiaoYangTongXue9802/chatgptProxyAPI/) | GPT | 基于 Cloudflare Pages / Workers 搭建 OpenAI 中转，适合个人 DIY。 |
 | je-chatgpt-api | [`https://github.com/ai-gpt-api/je-chatgpt-api/`](https://github.com/ai-gpt-api/je-chatgpt-api/) | GPT | 自建 ChatGPT API 中转的前端页面与配置示例。 |
 | claude-code-switch | [`https://github.com/gcloudream/claude-code-switch/`](https://github.com/gcloudream/claude-code-switch/) | Claude | Claude Code 中转站服务端，实现密钥管理、用量统计和转发功能。 |
@@ -1075,7 +1075,7 @@
 | EnConvo | [`https://www.enconvo.com/`](https://www.enconvo.com/) | - | 专为 macOS 设计的 AI 客户端。 |
 | DeepChat | [`https://github.com/ThinkInAIXYZ/deepchat/`](https://github.com/ThinkInAIXYZ/deepchat/) | - | 飞速发展，界面酷炫，开源免费。 |
 | Open LLM Leaderboard | [`https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard/`](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard/) | - | Hugging Face 开放大语言模型排行榜，追踪评估领先开源模型。 |
-| Chatbot Arena | [`https://chat.lmsys.org/`](https://chat.lmsys.org/) | - | 基于人类偏好的匿名聊天机器人对战和排行榜，采用 Elo 评分系统。 |
+| Chatbot Arena | [`https://chat.lmsys.org/`](https://chat.lmsys.org/?leaderboard/) | - | 基于人类偏好的匿名聊天机器人对战和排行榜，采用 Elo 评分系统。 |
 | MMLU 排行榜 | [`https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu/`](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu/) | - | 大规模多任务语言理解基准测试，衡量多学科问题性能。 |
 | SuperGLUE | [`https://super.gluebenchmark.com/leaderboard/`](https://super.gluebenchmark.com/leaderboard/) | - | 更具挑战性的通用语言理解评估基准。 |
 | Stanford HELM | [`https://crfm.stanford.edu/helm/latest/`](https://crfm.stanford.edu/helm/latest/) | - | 斯坦福大语言模型整体评估框架，多场景多指标全面评估。 |
